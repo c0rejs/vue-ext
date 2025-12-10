@@ -4,51 +4,51 @@
 
 **Other changes:**
 
-- style: lint (● [6ac0279](https://github.com/softvisio-node/vue-ext/commit/6ac02791); 👬 zdm)
+- style: lint (● [6ac0279](https://github.com/c0rejs/vue-ext/commit/6ac02791); 👬 zdm)
 
-Compare with the previous release: [v8.14.26](https://github.com/softvisio-node/vue-ext/compare/v8.14.26...v8.14.27)
+Compare with the previous release: [v8.14.26](https://github.com/c0rejs/vue-ext/compare/v8.14.26...v8.14.27)
 
 ### v8.14.26 (2025-07-23)
 
 **Other changes:**
 
-- build(deps): bump @fortawesome/fontawesome-free v7.0.0 (● [0dc329a](https://github.com/softvisio-node/vue-ext/commit/0dc329a5); 👬 zdm)
+- build(deps): bump @fortawesome/fontawesome-free v7.0.0 (● [0dc329a](https://github.com/c0rejs/vue-ext/commit/0dc329a5); 👬 zdm)
 
-- style: update .npmrc (● [3b8c833](https://github.com/softvisio-node/vue-ext/commit/3b8c8334); 👬 zdm)
+- style: update .npmrc (● [3b8c833](https://github.com/c0rejs/vue-ext/commit/3b8c8334); 👬 zdm)
 
-Compare with the previous release: [v8.14.25](https://github.com/softvisio-node/vue-ext/compare/v8.14.25...v8.14.26)
+Compare with the previous release: [v8.14.25](https://github.com/c0rejs/vue-ext/compare/v8.14.25...v8.14.26)
 
 ### v8.14.25 (2025-07-23)
 
 **Bug fixes:**
 
-- \[PATCH] fix: update editorconfig (● [ff05417](https://github.com/softvisio-node/vue-ext/commit/ff05417e); 👬 zdm)
+- \[PATCH] fix: update editorconfig (● [ff05417](https://github.com/c0rejs/vue-ext/commit/ff05417e); 👬 zdm)
 
-Compare with the previous release: [v8.14.24](https://github.com/softvisio-node/vue-ext/compare/v8.14.24...v8.14.25)
+Compare with the previous release: [v8.14.24](https://github.com/c0rejs/vue-ext/compare/v8.14.24...v8.14.25)
 
 ### v8.14.24 (2025-07-22)
 
 **Bug fixes:**
 
-- \[PATCH] fix: fix editorconfig (● [3fc9249](https://github.com/softvisio-node/vue-ext/commit/3fc9249b); 👬 zdm)
+- \[PATCH] fix: fix editorconfig (● [3fc9249](https://github.com/c0rejs/vue-ext/commit/3fc9249b); 👬 zdm)
 
-Compare with the previous release: [v8.14.23](https://github.com/softvisio-node/vue-ext/compare/v8.14.23...v8.14.24)
+Compare with the previous release: [v8.14.23](https://github.com/c0rejs/vue-ext/compare/v8.14.23...v8.14.24)
 
 ### v8.14.23 (2025-07-16)
 
 **Other changes:**
 
-- style: lint (● [4b0962d](https://github.com/softvisio-node/vue-ext/commit/4b0962d9); 👬 zdm)
+- style: lint (● [4b0962d](https://github.com/c0rejs/vue-ext/commit/4b0962d9); 👬 zdm)
 
-Compare with the previous release: [v8.14.22](https://github.com/softvisio-node/vue-ext/compare/v8.14.22...v8.14.23)
+Compare with the previous release: [v8.14.22](https://github.com/c0rejs/vue-ext/compare/v8.14.22...v8.14.23)
 
 ### v8.14.22 (2025-07-16)
 
 **Other changes:**
 
-- docs: update (● [49661c9](https://github.com/softvisio-node/vue-ext/commit/49661c9f); 👬 zdm)
+- docs: update (● [49661c9](https://github.com/c0rejs/vue-ext/commit/49661c9f); 👬 zdm)
 
-Compare with the previous release: [v8.14.21](https://github.com/softvisio-node/vue-ext/compare/v8.14.21...v8.14.22)
+Compare with the previous release: [v8.14.21](https://github.com/c0rejs/vue-ext/compare/v8.14.21...v8.14.22)
 
 ### v8.14.21 (2025-06-09)
 
@@ -56,7 +56,7 @@ Compare with the previous release: [v8.14.21](https://github.com/softvisio-node/
 
 - \[PATCH] chore: update about dialog (👬 zdm)
 
-Compare with the previous release: [v8.14.20](https://github.com/softvisio-node/vue-ext/compare/v8.14.20...v8.14.21)
+Compare with the previous release: [v8.14.20](https://github.com/c0rejs/vue-ext/compare/v8.14.20...v8.14.21)
 
 ### v8.14.20 (2025-06-07)
 
@@ -64,7 +64,7 @@ Compare with the previous release: [v8.14.20](https://github.com/softvisio-node/
 
 - \[PATCH] chore: update cli config (👬 zdm)
 
-Compare with the previous release: [v8.14.19](https://github.com/softvisio-node/vue-ext/compare/v8.14.19...v8.14.20)
+Compare with the previous release: [v8.14.19](https://github.com/c0rejs/vue-ext/compare/v8.14.19...v8.14.20)
 
 ### v8.14.19 (2025-06-01)
 
@@ -72,7 +72,7 @@ Compare with the previous release: [v8.14.19](https://github.com/softvisio-node/
 
 - \[PATCH] chore: update docs (👬 zdm)
 
-Compare with the previous release: [v8.14.18](https://github.com/softvisio-node/vue-ext/compare/v8.14.18...v8.14.19)
+Compare with the previous release: [v8.14.18](https://github.com/c0rejs/vue-ext/compare/v8.14.18...v8.14.19)
 
 ### 8.14.18 (2025-04-22)
 
@@ -80,7 +80,7 @@ Other changes:
 
 - chore: set default ext version
 
-Compare with the previous release: [`v8.14.17...v8.14.18`](https://github.com/softvisio-node/vue-ext/compare/v8.14.17...v8.14.18)
+Compare with the previous release: [`v8.14.17...v8.14.18`](https://github.com/c0rejs/vue-ext/compare/v8.14.17...v8.14.18)
 
 ### 8.14.17 (2025-04-08)
 
@@ -88,7 +88,7 @@ Other changes:
 
 - chore: update translations
 
-Compare with the previous release: [`v8.14.16...v8.14.17`](https://github.com/softvisio-node/vue-ext/compare/v8.14.16...v8.14.17)
+Compare with the previous release: [`v8.14.16...v8.14.17`](https://github.com/c0rejs/vue-ext/compare/v8.14.16...v8.14.17)
 
 ### 8.14.16 (2025-04-03)
 
@@ -96,7 +96,7 @@ Other changes:
 
 - chore: fix api call
 
-Compare with the previous release: [`v8.14.15...v8.14.16`](https://github.com/softvisio-node/vue-ext/compare/v8.14.15...v8.14.16)
+Compare with the previous release: [`v8.14.15...v8.14.16`](https://github.com/c0rejs/vue-ext/compare/v8.14.15...v8.14.16)
 
 ### 8.14.15 (2025-03-31)
 
@@ -104,7 +104,7 @@ Other changes:
 
 - chore: fix default value
 
-Compare with the previous release: [`v8.14.14...v8.14.15`](https://github.com/softvisio-node/vue-ext/compare/v8.14.14...v8.14.15)
+Compare with the previous release: [`v8.14.14...v8.14.15`](https://github.com/c0rejs/vue-ext/compare/v8.14.14...v8.14.15)
 
 ### 8.14.14 (2025-03-26)
 
@@ -112,7 +112,7 @@ Other changes:
 
 - chore: update markdown code tags
 
-Compare with the previous release: [`v8.14.13...v8.14.14`](https://github.com/softvisio-node/vue-ext/compare/v8.14.13...v8.14.14)
+Compare with the previous release: [`v8.14.13...v8.14.14`](https://github.com/c0rejs/vue-ext/compare/v8.14.13...v8.14.14)
 
 ### 8.14.13 (2025-03-26)
 
@@ -120,7 +120,7 @@ Other changes:
 
 - chore: update markdown code tags
 
-Compare with the previous release: [`v8.14.12...v8.14.13`](https://github.com/softvisio-node/vue-ext/compare/v8.14.12...v8.14.13)
+Compare with the previous release: [`v8.14.12...v8.14.13`](https://github.com/c0rejs/vue-ext/compare/v8.14.12...v8.14.13)
 
 ### 8.14.12 (2025-03-16)
 
@@ -128,7 +128,7 @@ Other changes:
 
 - chore: update package dependencies
 
-Compare with the previous release: [`v8.14.11...v8.14.12`](https://github.com/softvisio-node/vue-ext/compare/v8.14.11...v8.14.12)
+Compare with the previous release: [`v8.14.11...v8.14.12`](https://github.com/c0rejs/vue-ext/compare/v8.14.11...v8.14.12)
 
 ### 8.14.11 (2025-03-16)
 
@@ -136,7 +136,7 @@ Other changes:
 
 - chore: enabled ajv strict mode
 
-Compare with the previous release: [`v8.14.10...v8.14.11`](https://github.com/softvisio-node/vue-ext/compare/v8.14.10...v8.14.11)
+Compare with the previous release: [`v8.14.10...v8.14.11`](https://github.com/c0rejs/vue-ext/compare/v8.14.10...v8.14.11)
 
 ### 8.14.10 (2025-03-04)
 
@@ -144,7 +144,7 @@ Other changes:
 
 - chore: update package metadata
 
-Compare with the previous release: [`v8.14.9...v8.14.10`](https://github.com/softvisio-node/vue-ext/compare/v8.14.9...v8.14.10)
+Compare with the previous release: [`v8.14.9...v8.14.10`](https://github.com/c0rejs/vue-ext/compare/v8.14.9...v8.14.10)
 
 ### 8.14.9 (2025-03-04)
 
@@ -152,7 +152,7 @@ Other changes:
 
 - chore: update package metadata
 
-Compare with the previous release: [`v8.14.8...v8.14.9`](https://github.com/softvisio-node/vue-ext/compare/v8.14.8...v8.14.9)
+Compare with the previous release: [`v8.14.8...v8.14.9`](https://github.com/c0rejs/vue-ext/compare/v8.14.8...v8.14.9)
 
 ### 8.14.8 (2025-02-27)
 
@@ -160,7 +160,7 @@ Other changes:
 
 - chore: add editorconfig yaml
 
-Compare with the previous release: [`v8.14.7...v8.14.8`](https://github.com/softvisio-node/vue-ext/compare/v8.14.7...v8.14.8)
+Compare with the previous release: [`v8.14.7...v8.14.8`](https://github.com/c0rejs/vue-ext/compare/v8.14.7...v8.14.8)
 
 ### 8.14.7 (2025-02-26)
 
@@ -168,7 +168,7 @@ Other changes:
 
 - chore: update editorconfig
 
-Compare with the previous release: [`v8.14.6...v8.14.7`](https://github.com/softvisio-node/vue-ext/compare/v8.14.6...v8.14.7)
+Compare with the previous release: [`v8.14.6...v8.14.7`](https://github.com/c0rejs/vue-ext/compare/v8.14.6...v8.14.7)
 
 ### 8.14.6 (2025-02-19)
 
@@ -176,7 +176,7 @@ Other changes:
 
 - chore: update cli config
 
-Compare with the previous release: [`v8.14.5...v8.14.6`](https://github.com/softvisio-node/vue-ext/compare/v8.14.5...v8.14.6)
+Compare with the previous release: [`v8.14.5...v8.14.6`](https://github.com/c0rejs/vue-ext/compare/v8.14.5...v8.14.6)
 
 ### 8.14.5 (2025-01-08)
 
@@ -184,7 +184,7 @@ Other changes:
 
 - chore: update package metadata
 
-[Compare with the previous release: v8.14.4 ... v8.14.5](https://github.com/softvisio-node/vue-ext/compare/v8.14.4...v8.14.5)
+[Compare with the previous release: v8.14.4 ... v8.14.5](https://github.com/c0rejs/vue-ext/compare/v8.14.4...v8.14.5)
 
 ### 8.14.4 (2024-12-07)
 
@@ -192,7 +192,7 @@ Other changes:
 
 - chore: set yaml indent to 4 spaces
 
-[Compare with the previous release: v8.14.3 ... v8.14.4](https://github.com/softvisio-node/vue-ext/compare/v8.14.3...v8.14.4)
+[Compare with the previous release: v8.14.3 ... v8.14.4](https://github.com/c0rejs/vue-ext/compare/v8.14.3...v8.14.4)
 
 ### 8.14.3 (2024-11-29)
 
@@ -200,7 +200,7 @@ Other changes:
 
 - chore: remove browser_major
 
-[Compare with the previous release: v8.14.2 ... v8.14.3](https://github.com/softvisio-node/vue-ext/compare/v8.14.2...v8.14.3)
+[Compare with the previous release: v8.14.2 ... v8.14.3](https://github.com/c0rejs/vue-ext/compare/v8.14.2...v8.14.3)
 
 ### 8.14.2 (2024-11-27)
 
@@ -208,7 +208,7 @@ Other changes:
 
 - chore: update package metadata
 
-[Compare with the previous release: v8.14.1 ... v8.14.2](https://github.com/softvisio-node/vue-ext/compare/v8.14.1...v8.14.2)
+[Compare with the previous release: v8.14.1 ... v8.14.2](https://github.com/c0rejs/vue-ext/compare/v8.14.1...v8.14.2)
 
 ### 8.14.1 (2024-11-27)
 
@@ -216,7 +216,7 @@ Other changes:
 
 - chore: update package metadata
 
-[Compare with the previous release: v8.14.0 ... v8.14.1](https://github.com/softvisio-node/vue-ext/compare/v8.14.0...v8.14.1)
+[Compare with the previous release: v8.14.0 ... v8.14.1](https://github.com/c0rejs/vue-ext/compare/v8.14.0...v8.14.1)
 
 ### 8.14.0 (2024-11-25)
 
@@ -224,7 +224,7 @@ Features:
 
 - feat: refactor user-agent
 
-[Compare with the previous release: v8.13.8 ... v8.14.0](https://github.com/softvisio-node/vue-ext/compare/v8.13.8...v8.14.0)
+[Compare with the previous release: v8.13.8 ... v8.14.0](https://github.com/c0rejs/vue-ext/compare/v8.13.8...v8.14.0)
 
 ### 8.13.8 (2024-11-07)
 
@@ -232,7 +232,7 @@ Other changes:
 
 - chore: update package metadata
 
-[Compare with the previous release: v8.13.7 ... v8.13.8](https://github.com/softvisio-node/vue-ext/compare/v8.13.7...v8.13.8)
+[Compare with the previous release: v8.13.7 ... v8.13.8](https://github.com/c0rejs/vue-ext/compare/v8.13.7...v8.13.8)
 
 ### 8.13.7 (2024-10-29)
 
@@ -240,25 +240,25 @@ Other changes:
 
 - chore: update docs
 
-[Compare with the previous release: v8.13.6 ... v8.13.7](https://github.com/softvisio-node/vue-ext/compare/v8.13.6...v8.13.7)
+[Compare with the previous release: v8.13.6 ... v8.13.7](https://github.com/c0rejs/vue-ext/compare/v8.13.6...v8.13.7)
 
 ### 8.13.6 (2024-10-20)
 
 No notable changes since the previous release.
 
-[Full list of the changes](https://github.com/softvisio-node/vue-ext/compare/v8.13.5...v8.13.6)
+[Full list of the changes](https://github.com/c0rejs/vue-ext/compare/v8.13.5...v8.13.6)
 
 ### 8.13.5 (2024-10-16)
 
 No notable changes since the previous release.
 
-[Full list of the changes](https://github.com/softvisio-node/vue-ext/compare/v8.13.4...v8.13.5)
+[Full list of the changes](https://github.com/c0rejs/vue-ext/compare/v8.13.4...v8.13.5)
 
 ### 8.13.4 (2024-10-11)
 
 No notable changes since the previous release.
 
-[Full list of the changes](https://github.com/softvisio-node/vue-ext/compare/v8.13.3...v8.13.4)
+[Full list of the changes](https://github.com/c0rejs/vue-ext/compare/v8.13.3...v8.13.4)
 
 ### 8.13.3 (2024-10-06)
 
