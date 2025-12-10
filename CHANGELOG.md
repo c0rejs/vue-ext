@@ -1,5 +1,13 @@
 # Changelog
 
+### v8.14.29 (2025-12-10)
+
+**Other changes:**
+
+- build: migrate to c0rejs namespace (● [d481c85](https://github.com/c0rejs/vue-ext/commit/d481c851); 👬 zdm)
+
+Compare with the previous release: [v8.14.28](https://github.com/c0rejs/vue-ext/compare/v8.14.28...v8.14.29)
+
 ### v8.14.28 (2025-12-10)
 
 **Other changes:**
