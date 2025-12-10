@@ -1,1 +1,1 @@
-export { default } from "@softvisio/vue/config";
+export { default } from "@c0rejs/vue/config";

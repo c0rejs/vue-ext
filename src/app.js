@@ -1,4 +1,4 @@
-import VueApp from "@softvisio/vue/app";
+import VueApp from "@c0rejs/vue/app";
 import AuthorizationDialog from "#src/components/authorization.dialog";
 
 export default class VueExtApp extends VueApp {

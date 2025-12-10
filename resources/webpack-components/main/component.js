@@ -1,4 +1,4 @@
-import WebpackComponent from "@softvisio/vue/webpack-components/main";
+import WebpackComponent from "@c0rejs/vue/webpack-components/main";
 
 export default class extends WebpackComponent {
 
@@ -6,13 +6,13 @@ export default class extends WebpackComponent {
     get webpackResolveAlias () {
         return {
             ...super.webpackResolveAlias,
-            "#vue": "@softvisio/vue-ext",
+            "#vue": "@c0rejs/vue-ext",
 
-            "#ext$": "@softvisio/ext/ext-" + this.buildOptions.extVersion,
-            "#ext": "@softvisio/ext/resources/ext-" + this.buildOptions.extVersion,
-            "#ewc$": "@softvisio/ext/ewc-" + this.buildOptions.ewcVersion,
-            "#ewc": "@softvisio/ext/resources/ewc-" + this.buildOptions.ewcVersion,
-            "#ext-charts$": "@softvisio/ext/ext-charts-" + this.buildOptions.extVersion,
+            "#ext$": "@c0rejs/ext/ext-" + this.buildOptions.extVersion,
+            "#ext": "@c0rejs/ext/resources/ext-" + this.buildOptions.extVersion,
+            "#ewc$": "@c0rejs/ext/ewc-" + this.buildOptions.ewcVersion,
+            "#ewc": "@c0rejs/ext/resources/ewc-" + this.buildOptions.ewcVersion,
+            "#ext-charts$": "@c0rejs/ext/ext-charts-" + this.buildOptions.extVersion,
         };
     }
 
@@ -34,9 +34,9 @@ export default class extends WebpackComponent {
 
         //         const resource = module.resource.replaceAll( "\\", "/" );
 
-        //         if ( resource.includes( "@softvisio/ext/src/ext-charts-" ) ) return true;
+        //         if ( resource.includes( "@c0rejs/ext/src/ext-charts-" ) ) return true;
 
-        //         if ( resource.includes( "@softvisio/ext/resources/ext-" + this.buildOptions.extVersion + "/charts.js" ) ) return true;
+        //         if ( resource.includes( "@c0rejs/ext/resources/ext-" + this.buildOptions.extVersion + "/charts.js" ) ) return true;
         //     },
         //     "priority": -9,
         //     "chunks": "all",

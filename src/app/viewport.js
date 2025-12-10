@@ -1,6 +1,6 @@
 import "#ext";
 import "#ewc";
-import VueViewport from "@softvisio/vue/app/viewport";
+import VueViewport from "@c0rejs/vue/app/viewport";
 
 // must be impoerted after ExtJS
 await import( "@fortawesome/fontawesome-free/css/all.min.css" );

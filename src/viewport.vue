@@ -4,7 +4,7 @@
 
 <script>
 import "./assets/scrollbars.css";
-import Viewport from "@softvisio/vue/viewport";
+import Viewport from "@c0rejs/vue/viewport";
 import AuthorizationDialog from "#src/components/authorization.dialog";
 import ResetPasswordDialog from "#src/components/reset-password.dialog";
 

@@ -1,4 +1,4 @@
-export * from "@softvisio/vue/utils";
+export * from "@c0rejs/vue/utils";
 
 const ICON_SIZE = "2em";
 

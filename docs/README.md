@@ -5,7 +5,7 @@
 ## Install
 
 ```sh
-npm install @softvisio/vue-ext
+npm install @c0rejs/vue-ext
 ```
 
 ## Usage

@@ -1,5 +1,5 @@
 {
-    "name": "@softvisio/vue-ext",
+    "name": "@c0rejs/vue-ext",
     "version": "8.14.27",
     "description": "Softisio Vue Ext",
     "keywords": [
@@ -20,7 +20,7 @@
     "author": "root <root@softvisio.net>",
     "type": "module",
     "imports": {
-        "#core/*": "@softvisio/core/*",
+        "#core/*": "@c0rejs/core/*",
         "#resources/*": "./resources/*",
         "#src/*": {
             "browser": "./src/*",
@@ -48,7 +48,7 @@
         "pdfjs-dist": "^5.0.0"
     },
     "peerDependencies": {
-        "@softvisio/ext": "^5.3.2",
-        "@softvisio/vue": "^7.0.0"
+        "@c0rejs/ext": "^5.3.2",
+        "@c0rejs/vue": "^7.0.0"
     }
 }

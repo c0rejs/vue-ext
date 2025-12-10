@@ -1,4 +1,4 @@
-import WebpackComponent from "@softvisio/vue/webpack-components/firebase-messaging-worker";
+import WebpackComponent from "@c0rejs/vue/webpack-components/firebase-messaging-worker";
 
 export default class extends WebpackComponent {
 
@@ -6,7 +6,7 @@ export default class extends WebpackComponent {
     get webpackResolveAlias () {
         return {
             ...super.webpackResolveAlias,
-            "#vue": "@softvisio/vue-ext",
+            "#vue": "@c0rejs/vue-ext",
         };
     }
 

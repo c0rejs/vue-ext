@@ -1,4 +1,4 @@
-import locale from "@softvisio/vue/locale";
+import locale from "@c0rejs/vue/locale";
 
 export default locale;
 
