@@ -7,14 +7,14 @@
         "vue",
         "extjs"
     ],
-    "homepage": "https://softvisio-node.github.io/vue-ext/",
+    "homepage": "https://c0rejs.github.io/vue-ext/",
     "bugs": {
-        "url": "https://github.com/softvisio-node/vue-ext/issues",
+        "url": "https://github.com/c0rejs/vue-ext/issues",
         "email": "root <root@softvisio.net>"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/softvisio-node/vue-ext.git"
+        "url": "git+https://github.com/c0rejs/vue-ext.git"
     },
     "license": "ISC",
     "author": "root <root@softvisio.net>",
