@@ -1,5 +1,17 @@
 # Changelog
 
+### v8.14.30 (2025-12-11)
+
+**Bug fixes:**
+
+- \[PATCH] fix: update npmrc (● [80bbee7](https://github.com/c0rejs/vue-ext/commit/80bbee72); 👬 zdm)
+
+**Other changes:**
+
+- build: migrate to c0rejs namespace (● [aa81f09](https://github.com/c0rejs/vue-ext/commit/aa81f097); 👬 zdm)
+
+Compare with the previous release: [v8.14.29](https://github.com/c0rejs/vue-ext/compare/v8.14.29...v8.14.30)
+
 ### v8.14.29 (2025-12-10)
 
 **Other changes:**
