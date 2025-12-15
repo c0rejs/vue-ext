@@ -1,5 +1,13 @@
 # Changelog
 
+### v8.14.31 (2025-12-15)
+
+**Code refactoring:**
+
+- \[PATCH] refactor: refactor tokens panel (● [cfb5261](https://github.com/c0rejs/vue-ext/commit/cfb52614), [8cbd98a](https://github.com/c0rejs/vue-ext/commit/8cbd98a6); 👬 zdm)
+
+Compare with the previous release: [v8.14.30](https://github.com/c0rejs/vue-ext/compare/v8.14.30...v8.14.31)
+
 ### v8.14.30 (2025-12-11)
 
 **Bug fixes:**
