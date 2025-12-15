@@ -14,6 +14,7 @@ export default Ext.define( null, {
         "id",
 
         // fields
+        "public",
         { "name": "created", "type": "date" },
         { "name": "last_activity", "type": "date" },
         { "name": "current_session", "type": "bool" },

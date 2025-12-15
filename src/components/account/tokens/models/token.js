@@ -15,6 +15,7 @@ export default Ext.define( null, {
 
         // fields
         "name",
+        "public",
         { "name": "created", "type": "date" },
         { "name": "last_activity", "type": "date" },
         { "name": "enabled", "type": "bool" },
@@ -28,6 +29,17 @@ export default Ext.define( null, {
                 }
                 else {
                     return Ext.util.Format.date( data.last_activity, "dateStyle:short,timeStyle:short" );
+                }
+            },
+        },
+        {
+            "name": "public_text",
+            calculate ( data ) {
+                if ( !data.public ) {
+                    return "&mdash;";
+                }
+                else {
+                    return `${ data.public }...`;
                 }
             },
         },

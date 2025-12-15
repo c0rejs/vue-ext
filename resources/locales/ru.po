@@ -34,14 +34,14 @@ msgstr "Цвет акцента"
 msgid "Access denied"
 msgstr "Доступ запрещен"
 
-#: ../../src/components/account/tokens/panel.vue:154:22
+#: ../../src/components/account/tokens/panel.vue:156:22
 #: ../../src/components/acl/panel.vue:246:22
 #: ../../src/components/administration/users/panel.vue:262:22
 msgid "Access disabled"
 msgstr "Доступ запрещен"
 
-#: ../../src/components/account/tokens/panel.vue:153:22
-#: ../../src/components/account/tokens/panel.vue:21:88
+#: ../../src/components/account/tokens/panel.vue:155:22
+#: ../../src/components/account/tokens/panel.vue:23:88
 #: ../../src/components/acl/add-user.dialog.vue:5:52
 #: ../../src/components/acl/panel.vue:21:67
 #: ../../src/components/acl/panel.vue:245:22
@@ -92,7 +92,7 @@ msgstr "Вы уверены, что хотите удалить этого бо�
 msgid "Are you sure you want to delete this link and all it's data? This operation is not revertable."
 msgstr "Вы уверены, что хотите удалить эту ссылку и все ее данные? Эта операция необратима."
 
-#: ../../src/components/account/tokens/panel.vue:164:47
+#: ../../src/components/account/tokens/panel.vue:166:47
 msgid "Are you sure you want to delete this token?"
 msgstr "Вы действительно хотите удалить этот токен?"
 
@@ -354,7 +354,7 @@ msgstr "Создать токен"
 msgid "Create user"
 msgstr "Создать пользователя"
 
-#: ../../src/components/account/tokens/panel.vue:19:107
+#: ../../src/components/account/tokens/panel.vue:21:107
 #: ../../src/components/administration/users/panel.vue:23:104
 #: ../../src/components/telegram/bot/links/details.panel.vue:28:90
 #: ../../src/components/telegram/bot/links/panel.vue:33:96
@@ -651,7 +651,7 @@ msgstr "IP-адрес скопирован"
 msgid "Is bot"
 msgstr "Это бот"
 
-#: ../../src/components/account/tokens/panel.vue:17:132
+#: ../../src/components/account/tokens/panel.vue:19:132
 #: ../../src/components/administration/users/panel.vue:21:167
 #: ../../src/components/user-sessions/panel.vue:32:132
 msgid "Last activity"
@@ -1217,6 +1217,10 @@ msgstr "Чтобы использовать бота поддержки, вам 
 msgid "Toggle dark mode"
 msgstr "Переключить темный режим"
 
+#: ../../src/components/account/tokens/panel.vue:15:118
+msgid "Token"
+msgstr "Токен"
+
 #: ../../src/components/account/tokens/create/dialog.vue:86:25
 msgid "Token copied to the clipboard"
 msgstr "Токен скопирован"
@@ -1225,12 +1229,12 @@ msgstr "Токен скопирован"
 msgid "Token created"
 msgstr "Токен создан"
 
-#: ../../src/components/account/tokens/panel.vue:169:29
+#: ../../src/components/account/tokens/panel.vue:171:29
 msgid "Token deleted"
 msgstr "Токен удален"
 
 #: ../../src/components/account/tokens/create/dialog.vue:4:46
-#: ../../src/components/account/tokens/panel.vue:15:61
+#: ../../src/components/account/tokens/panel.vue:17:61
 msgid "Token name"
 msgstr "Имя токена"
 
@@ -1727,6 +1731,11 @@ msgstr "Уменьшить"
 #~ msgid "Historical charts for the method: ${n}"
 #~ msgstr "Исторические диаграммы для метода: ${n}"
 
+#: ../../src/components/account/tokens/panel.vue:15:118
+#, fuzzy
+#~ msgid "ID"
+#~ msgstr "ИДЕНТИФИКАТОР"
+
 #~ msgid "If you have Telegram installed on <b>THIS</b> device, then press button below to open Telegram bot and then click \"Start\":"
 #~ msgstr "Если у вас установлен Telegram на <b>ЭТОМ</b> устройстве, нажмите кнопку ниже, чтобы открыть Telegram-бота, а затем нажмите «Старт»:"
 
@@ -2066,9 +2075,6 @@ msgstr "Уменьшить"
 
 #~ msgid "To use Telegram support bot you need to link your Telegram account"
 #~ msgstr "Чтобы использовать бота поддержки Telegram, вам необходимо связать свою учетную запись Telegram"
-
-#~ msgid "Token"
-#~ msgstr "Токен"
 
 #~ msgid "Token roles updated"
 #~ msgstr "Роли токена обновлены"
