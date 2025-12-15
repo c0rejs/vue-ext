@@ -12,7 +12,7 @@
 
         <template #dataPanel>
             <ext-grid multicolumnSort="true" @ready="gridReady">
-                <ext-column cell='{"encodeHtml":false}' dataIndex="public_text" sorter='{"property":"public"}' :text="l10n(`Token`)" width="100"/>
+                <ext-column cell='{"encodeHtml":false}' dataIndex="public_text" sorter='{"property":"public"}' :text="l10n(`Token`)" width="150"/>
 
                 <ext-column dataIndex="name" flex="1" :text="l10n(`Token name`)"/>
 
