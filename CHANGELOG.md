@@ -1,5 +1,13 @@
 # Changelog
 
+### v8.14.32 (2026-01-05)
+
+**Other changes:**
+
+- chore: remove npm @sencha:registry (● [0d0d33a](https://github.com/c0rejs/vue-ext/commit/0d0d33a4); 👬 zdm)
+
+Compare with the previous release: [v8.14.31](https://github.com/c0rejs/vue-ext/compare/v8.14.31...v8.14.32)
+
 ### v8.14.31 (2025-12-15)
 
 **Code refactoring:**
