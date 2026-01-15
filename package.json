@@ -44,7 +44,7 @@
     "dependencies": {
         "@amcharts/amcharts5": "^5.1.10",
         "@fortawesome/fontawesome-free": "^7.0.0",
-        "froala-editor": "^4.0.0",
+        "froala-editor": "^5.0.0",
         "pdfjs-dist": "^5.0.0"
     },
     "peerDependencies": {
