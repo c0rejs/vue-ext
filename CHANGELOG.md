@@ -1,5 +1,13 @@
 # Changelog
 
+### v8.14.33 (2026-01-15)
+
+**Other changes:**
+
+- build(deps): bump froala-editor@^5.0.0 (● [15277b4](https://github.com/c0rejs/vue-ext/commit/15277b48); 👬 zdm)
+
+Compare with the previous release: [v8.14.32](https://github.com/c0rejs/vue-ext/compare/v8.14.32...v8.14.33)
+
 ### v8.14.32 (2026-01-05)
 
 **Other changes:**
