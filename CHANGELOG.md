@@ -1,5 +1,11 @@
 # Changelog
 
+### v8.14.36 (2026-01-29)
+
+No changes since the previous release.
+
+Compare with the previous release: [v8.14.35](https://github.com/c0rejs/vue-ext/compare/v8.14.35...v8.14.36)
+
 ### v8.14.35 (2026-01-28)
 
 **Other changes:**
