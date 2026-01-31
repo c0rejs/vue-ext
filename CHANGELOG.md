@@ -1,5 +1,13 @@
 # Changelog
 
+### v8.14.37 (2026-01-31)
+
+**Other changes:**
+
+- chore: rename package (● [a66eead](https://github.com/corejslib/vue-ext/commit/a66eeadf); 👬 zdm)
+
+Compare with the previous release: [v8.14.36](https://github.com/corejslib/vue-ext/compare/v8.14.36...v8.14.37)
+
 ### v8.14.36 (2026-01-29)
 
 No changes since the previous release.
