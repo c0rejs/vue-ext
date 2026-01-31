@@ -1,4 +1,4 @@
-import WebpackComponent from "@c0rejs/vue/webpack-components/main";
+import WebpackComponent from "@corejslib/vue/webpack-components/main";
 
 export default class extends WebpackComponent {
 
@@ -6,13 +6,13 @@ export default class extends WebpackComponent {
     get webpackResolveAlias () {
         return {
             ...super.webpackResolveAlias,
-            "#vue": "@c0rejs/vue-ext",
+            "#vue": "@corejslib/vue-ext",
 
-            "#ext$": "@c0rejs/ext/ext-" + this.buildOptions.extVersion,
-            "#ext": "@c0rejs/ext/resources/ext-" + this.buildOptions.extVersion,
-            "#ewc$": "@c0rejs/ext/ewc-" + this.buildOptions.ewcVersion,
-            "#ewc": "@c0rejs/ext/resources/ewc-" + this.buildOptions.ewcVersion,
-            "#ext-charts$": "@c0rejs/ext/ext-charts-" + this.buildOptions.extVersion,
+            "#ext$": "@corejslib/ext/ext-" + this.buildOptions.extVersion,
+            "#ext": "@corejslib/ext/resources/ext-" + this.buildOptions.extVersion,
+            "#ewc$": "@corejslib/ext/ewc-" + this.buildOptions.ewcVersion,
+            "#ewc": "@corejslib/ext/resources/ewc-" + this.buildOptions.ewcVersion,
+            "#ext-charts$": "@corejslib/ext/ext-charts-" + this.buildOptions.extVersion,
         };
     }
 
@@ -34,9 +34,9 @@ export default class extends WebpackComponent {
 
         //         const resource = module.resource.replaceAll( "\\", "/" );
 
-        //         if ( resource.includes( "@c0rejs/ext/src/ext-charts-" ) ) return true;
+        //         if ( resource.includes( "@corejslib/ext/src/ext-charts-" ) ) return true;
 
-        //         if ( resource.includes( "@c0rejs/ext/resources/ext-" + this.buildOptions.extVersion + "/charts.js" ) ) return true;
+        //         if ( resource.includes( "@corejslib/ext/resources/ext-" + this.buildOptions.extVersion + "/charts.js" ) ) return true;
         //     },
         //     "priority": -9,
         //     "chunks": "all",

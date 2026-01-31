@@ -1,4 +1,4 @@
-export * from "@c0rejs/vue/utils";
+export * from "@corejslib/vue/utils";
 
 const ICON_SIZE = "2em";
 

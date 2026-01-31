@@ -1,4 +1,4 @@
-import VueNotifications from "@c0rejs/vue/app/notifications";
+import VueNotifications from "@corejslib/vue/app/notifications";
 
 export default class VueExtNotifications extends VueNotifications {
     #inboxStore;

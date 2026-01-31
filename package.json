@@ -1,5 +1,5 @@
 {
-    "name": "@c0rejs/vue-ext",
+    "name": "@corejslib/vue-ext",
     "version": "8.14.36",
     "description": "Softisio Vue Ext",
     "keywords": [
@@ -7,20 +7,20 @@
         "vue",
         "extjs"
     ],
-    "homepage": "https://c0rejs.github.io/vue-ext/",
+    "homepage": "https://corejslib.github.io/vue-ext/",
     "bugs": {
-        "url": "https://github.com/c0rejs/vue-ext/issues",
+        "url": "https://github.com/corejslib/vue-ext/issues",
         "email": "root <root@softvisio.net>"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/c0rejs/vue-ext.git"
+        "url": "git+https://github.com/corejslib/vue-ext.git"
     },
     "license": "ISC",
     "author": "root <root@softvisio.net>",
     "type": "module",
     "imports": {
-        "#core/*": "@c0rejs/core/*",
+        "#core/*": "@corejslib/core/*",
         "#resources/*": "./resources/*",
         "#src/*": {
             "browser": "./src/*",
@@ -48,7 +48,7 @@
         "pdfjs-dist": "^5.0.0"
     },
     "peerDependencies": {
-        "@c0rejs/ext": "^5.3.2",
-        "@c0rejs/vue": "^7.0.0"
+        "@corejslib/ext": "^5.3.2",
+        "@corejslib/vue": "^7.0.0"
     }
 }

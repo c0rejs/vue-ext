@@ -1,1 +1,1 @@
-export { default } from "@c0rejs/vue/config";
+export { default } from "@corejslib/vue/config";

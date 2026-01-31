@@ -5,7 +5,7 @@
 ## Install
 
 ```sh
-npm install @c0rejs/vue-ext
+npm install @corejslib/vue-ext
 ```
 
 ## Usage

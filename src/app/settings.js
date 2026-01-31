@@ -1,3 +1,3 @@
-import VueSettings from "@c0rejs/vue/app/settings";
+import VueSettings from "@corejslib/vue/app/settings";
 
 export default class VueExtSettings extends VueSettings {}

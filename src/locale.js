@@ -1,4 +1,4 @@
-import locale from "@c0rejs/vue/locale";
+import locale from "@corejslib/vue/locale";
 
 export default locale;
 

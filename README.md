@@ -1,6 +1,6 @@
 <!-- !!! DO NOT EDIT, THIS FILE IS GENERATED AUTOMATICALLY !!!  -->
 
-> ℹ️ Please, see the full project documentation here:<br><https://c0rejs.github.io/vue-ext/>
+> ℹ️ Please, see the full project documentation here:<br><https://corejslib.github.io/vue-ext/>
 
 # Introduction
 
@@ -9,7 +9,7 @@
 ## Install
 
 ```sh
-npm install @c0rejs/vue-ext
+npm install @corejslib/vue-ext
 ```
 
 ## Usage
