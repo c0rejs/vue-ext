@@ -1,5 +1,13 @@
 # Changelog
 
+### v8.14.38 (2026-02-05)
+
+**Other changes:**
+
+- chore: remove @zdm npm registry (● [cdcc474](https://github.com/corejslib/vue-ext/commit/cdcc474e); 👬 zdm)
+
+Compare with the previous release: [v8.14.37](https://github.com/corejslib/vue-ext/compare/v8.14.37...v8.14.38)
+
 ### v8.14.37 (2026-01-31)
 
 **Other changes:**
