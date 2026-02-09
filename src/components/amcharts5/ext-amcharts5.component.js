@@ -37,11 +37,11 @@ export default class EwcAmchrarts5 extends ExtContainer {
     static get observedAttributes () {
         var attrs = super.observedAttributes;
 
-        EwcAmchrarts5.PROPERTIES().forEach( function ( property, index, array ) {
+        EwcAmchrarts5.PROPERTIES().forEach( ( property, index, array ) => {
             attrs.push( property );
         } );
 
-        EwcAmchrarts5.EVENTS().forEach( function ( eventparameter, index, array ) {
+        EwcAmchrarts5.EVENTS().forEach( ( eventparameter, index, array ) => {
             attrs.push( "on" + eventparameter.name );
         } );
 

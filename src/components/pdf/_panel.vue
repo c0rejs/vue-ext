@@ -291,7 +291,7 @@ export default {
 
             var renderTask = page.render( renderContext );
 
-            renderTask.promise.then( function () {
+            renderTask.promise.then( () => {
                 placeholder.append( canvas );
             } );
 

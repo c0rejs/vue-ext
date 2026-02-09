@@ -2,7 +2,7 @@ var MAPS_LOADED;
 var PROMISES = [];
 const CALLBACK = "_softvisioGoogleMapsInit";
 
-export default async function ( key, { language, libraries } = {} ) {
+export default async function loadMaps ( key, { language, libraries } = {} ) {
 
     // maps loaded
     if ( MAPS_LOADED === 2 ) {
