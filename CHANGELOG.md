@@ -1,5 +1,13 @@
 # Changelog
 
+### v8.14.39 (2026-02-09)
+
+**Bug fixes:**
+
+- \[PATCH] fix: fix func names (● [dd0a9b9](https://github.com/corejslib/vue-ext/commit/dd0a9b93); 👬 zdm)
+
+Compare with the previous release: [v8.14.38](https://github.com/corejslib/vue-ext/compare/v8.14.38...v8.14.39)
+
 ### v8.14.38 (2026-02-05)
 
 **Other changes:**
